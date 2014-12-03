@@ -3,7 +3,7 @@ Fibonacci
 
 ##Summary
 
-Let's implement two versions of the [Fibonacci sequence](http://en.wikipedia.org/wiki/Fibonacci_number): an iterative version and a recursive version, and then compare the performance of each. They'll be methods called `fib_iterative` and `fib_recursive`, respectively, which take an integer `n` as input and returns the `n`th Fibonacci number.
+Let's implement two versions of the [Fibonacci sequence](http://en.wikipedia.org/wiki/Fibonacci_number): an iterative version and a recursive version. They'll be methods called `fib_iterative` and `fib_recursive`, respectively, which take an integer `n` as input and returns the `n`th Fibonacci number.
 
 Each version will work as follows:
 
